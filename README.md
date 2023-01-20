@@ -1,6 +1,5 @@
 # EX294 Exam Preparations
 Repository contains exercises preparing for EX294 exam.
-It should be treated as a database of questions but the readers need to keep in mind that none of them was taken from the actual test. 
 They were created based on the study point available at RedHat's website
 
 ## Inspiration
